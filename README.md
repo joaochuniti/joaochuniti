@@ -1,16 +1,16 @@
-### Hi there 👋
+### boas vindas👋
 
-<!--
-**joaochuniti/joaochuniti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é joao chuniti
 
-Here are some ideas to get you started:
+estou estudando [alura](https://www.alura.com.br)
+estou me desenvolvendo na liguagem javascript
+utilizo esse espaço para minha organização e compartilhamento do meu projeto desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### vc pode entrar contato comigo
+
+joaochuniti@......
+
+
+
+
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
